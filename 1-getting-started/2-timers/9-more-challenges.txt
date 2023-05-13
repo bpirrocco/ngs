@@ -1,4 +1,4 @@
-Challenge 1:
+Challenge 1: 
 
   Print "Hello World" forever. Starting with a delay of 1 second
   but then incrementing the delay by 1 second each time.
