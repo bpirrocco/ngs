@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-const files = ['.bash_profile', 'kjkjhh', '.npmrc'];
+const files = ['1-loop.js', 'kjkjhh', './2-try.js'];
 
 files.forEach(file => {
   try {
