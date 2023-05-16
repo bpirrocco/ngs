@@ -1,6 +1,6 @@
-const print = require('frame-print');
+const print = require('bpirrocco-frame-print');
 
-print('Hello NPM!');
+print('This frame changes length!');
 
 /*
 Expected Output:
